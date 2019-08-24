@@ -2,7 +2,9 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>https://example.com/categories/</loc>
+      <loc>http://threewheels.top/categories/</loc>
+      
+      <lastmod>2019-08-20T23:07:20+08:00</lastmod>
       
       
       
@@ -10,7 +12,9 @@
     </url>
   
     <url>
-      <loc>https://example.com/tags/</loc>
+      <loc>http://threewheels.top/posts/</loc>
+      
+      <lastmod>2019-08-20T23:07:20+08:00</lastmod>
       
       
       
@@ -18,7 +22,67 @@
     </url>
   
     <url>
-      <loc>https://example.com/</loc>
+      <loc>http://threewheels.top/</loc>
+      
+      <lastmod>2019-08-20T23:07:20+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://threewheels.top/categories/%E5%AD%A6%E7%9A%84%E6%85%A2/</loc>
+      
+      <lastmod>2019-08-20T23:07:20+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://threewheels.top/categories/%E6%83%B3%E7%9A%84%E5%A4%9A/</loc>
+      
+      <lastmod>2019-08-20T23:07:20+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://threewheels.top/2019/second/</loc>
+      
+      <lastmod>2019-08-20T23:07:20+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://threewheels.top/2019/first/</loc>
+      
+      <lastmod>2019-08-20T23:07:20+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://threewheels.top/about/</loc>
+      
+      <lastmod>2019-08-20T23:07:05+08:00</lastmod>
+      
+      
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://threewheels.top/tags/</loc>
       
       
       

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>学的慢 on Three-wheels</title>
+    <link>http://threewheels.top/categories/%E5%AD%A6%E7%9A%84%E6%85%A2/</link>
+    <description>Recent content in 学的慢 on Three-wheels</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 20 Aug 2019 23:07:20 +0800</lastBuildDate>
+    
+	<atom:link href="http://threewheels.top/categories/%E5%AD%A6%E7%9A%84%E6%85%A2/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>编程从入门到放弃</title>
+      <link>http://threewheels.top/2019/second/</link>
+      <pubDate>Tue, 20 Aug 2019 23:07:20 +0800</pubDate>
+      
+      <guid>http://threewheels.top/2019/second/</guid>
+      <description>今天准备学习一门编程语言，因为我觉得编程很酷</description>
+    </item>
+    
+  </channel>
+</rss>
